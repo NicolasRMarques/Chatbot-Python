@@ -1,0 +1,36 @@
+Cliente: Tudo
+Chatbot: Que bom :)
+Cliente: Sim
+Chatbot: Que bom :)
+Cliente: Não
+Chatbot: Que pena :(
+Cliente: A
+Chatbot: B
+Cliente: Oi
+Chatbot: Oi :)
+Cliente: QUAL SEU NOME?
+Chatbot: Irineu, você não sabe nem eu
+Cliente: NOME ALTERADO COM SUCESSO!
+Chatbot: Nome Alterado com Sucesso!
+Cliente: RECLAMAÇÃO
+Chatbot: Reclamação
+Cliente: ELOGIO
+Chatbot: Elogio
+Cliente: SUGESTÃO
+Chatbot: Sugestão
+Cliente: DIÁLOGO
+Chatbot: Diálogo
+Cliente: NEUTRO
+Chatbot: Neutro
+Cliente: BEM
+Chatbot: Que bom! :)
+Cliente: B
+Chatbot: a
+Cliente: D
+Chatbot: f
+Cliente: CARLOS
+Chatbot: Carlos
+Cliente: PEDRO
+
+Cliente: AAA
+Chatbot: bbb
